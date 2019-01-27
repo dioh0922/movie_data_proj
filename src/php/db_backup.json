@@ -1,0 +1,906 @@
+[
+{
+    "title": "無限の住人",
+    "scrTime": "141",
+    "date": "2017-05-06",
+    "value": "1300",
+    "point": "1",
+    "category": "1"
+},
+{
+    "title": "ガーディアンズ・オブ・ギャラクシーVol2",
+    "scrTime": "136",
+    "date": "2017-05-12",
+    "value": "1300",
+    "point": "4",
+    "category": "2"
+},
+{
+    "title": "メッセージ",
+    "scrTime": "116",
+    "date": "2017-05-19",
+    "value": "1300",
+    "point": "2.5",
+    "category": "6"
+},
+{
+    "title": "美女と野獣",
+    "scrTime": "129",
+    "date": "2017-05-26",
+    "value": "1300",
+    "point": "4",
+    "category": "4"
+},
+{
+    "title": "ガーディアンズ・オブ・ギャラクシーVol2",
+    "scrTime": "136",
+    "date": "2017-05-27",
+    "value": "1300",
+    "point": "4",
+    "category": "2"
+},
+{
+    "title": "スプリット",
+    "scrTime": "117",
+    "date": "2017-06-03",
+    "value": "1300",
+    "point": "3",
+    "category": "7"
+},
+{
+    "title": "破裏拳ポリマー",
+    "scrTime": "108",
+    "date": "2017-06-09",
+    "value": "1400",
+    "point": "3.5",
+    "category": "1"
+},
+{
+    "title": "22年目の告白",
+    "scrTime": "118",
+    "date": "2017-06-16",
+    "value": "1300",
+    "point": "3",
+    "category": "7"
+},
+{
+    "title": "怪物はささやく",
+    "scrTime": "108",
+    "date": "2017-06-18",
+    "value": "1800",
+    "point": "1.5",
+    "category": "6"
+},
+{
+    "title": "キング・アーサー",
+    "scrTime": "126",
+    "date": "2017-06-24",
+    "value": "1100",
+    "point": "2.5",
+    "category": "12"
+},
+{
+    "title": "パイレーツ・オブ・カリビアン 最後の海賊",
+    "scrTime": "129",
+    "date": "2017-07-01",
+    "value": "1100",
+    "point": "3.5",
+    "category": "1"
+},
+{
+    "title": "パイレーツ・オブ・カリビアン 最後の海賊",
+    "scrTime": "129",
+    "date": "2017-07-02",
+    "value": "0",
+    "point": "3.5",
+    "category": "1"
+},
+{
+    "title": "メアリと魔女の花",
+    "scrTime": "102",
+    "date": "2017-07-09",
+    "value": "1800",
+    "point": "3.5",
+    "category": "3"
+},
+{
+    "title": "ジョン・ウィック：チャプター2",
+    "scrTime": "122",
+    "date": "2017-07-14",
+    "value": "1100",
+    "point": "2.5",
+    "category": "1"
+},
+{
+    "title": "パワーレンジャー",
+    "scrTime": "124",
+    "date": "2017-07-16",
+    "value": "1300",
+    "point": "3.5",
+    "category": "1"
+},
+{
+    "title": "怪盗グルーのミニオン大脱走",
+    "scrTime": "90",
+    "date": "2017-07-21",
+    "value": "1400",
+    "point": "2.5",
+    "category": "3"
+},
+{
+    "title": "ザ・マミー\/呪われた砂漠の王女",
+    "scrTime": "110",
+    "date": "2017-07-28",
+    "value": "1300",
+    "point": "3",
+    "category": "1"
+},
+{
+    "title": "ジョジョの奇妙な冒険 ダイアモンドは砕けない",
+    "scrTime": "119",
+    "date": "2017-08-05",
+    "value": "1300",
+    "point": "3",
+    "category": "3"
+},
+{
+    "title": "スパイダーマン：ホームカミング",
+    "scrTime": "133",
+    "date": "2017-08-17",
+    "value": "1300",
+    "point": "4",
+    "category": "2"
+},
+{
+    "title": "スパイダーマン：ホームカミング",
+    "scrTime": "133",
+    "date": "2017-08-19",
+    "value": "0",
+    "point": "4",
+    "category": "2"
+},
+{
+    "title": "関ヶ原",
+    "scrTime": "149",
+    "date": "2017-08-26",
+    "value": "1300",
+    "point": "2.5",
+    "category": "8"
+},
+{
+    "title": "ワンダーウーマン",
+    "scrTime": "141",
+    "date": "2017-09-01",
+    "value": "1100",
+    "point": "3.5",
+    "category": "2"
+},
+{
+    "title": "スキップ・トレース",
+    "scrTime": "107",
+    "date": "2017-09-08",
+    "value": "1300",
+    "point": "3",
+    "category": "1"
+},
+{
+    "title": "エイリアン・コヴェナント",
+    "scrTime": "122",
+    "date": "2017-09-15",
+    "value": "1300",
+    "point": "3.5",
+    "category": "9"
+},
+{
+    "title": "機動戦士ガンダム THE ORIGIN 激突ルウム会戦",
+    "scrTime": "122",
+    "date": "2017-09-18",
+    "value": "1800",
+    "point": "3.5",
+    "category": "3"
+},
+{
+    "title": "スクランブル",
+    "scrTime": "94",
+    "date": "2017-09-23",
+    "value": "1300",
+    "point": "3.5",
+    "category": "10"
+},
+{
+    "title": "スイス・アーミー・マン",
+    "scrTime": "97",
+    "date": "2017-10-01",
+    "value": "1100",
+    "point": "2.5",
+    "category": "6"
+},
+{
+    "title": "亜人",
+    "scrTime": "109",
+    "date": "2017-10-01",
+    "value": "1100",
+    "point": "3",
+    "category": "3"
+},
+{
+    "title": "アウトレイジ 最終章",
+    "scrTime": "104",
+    "date": "2017-10-07",
+    "value": "0",
+    "point": "2",
+    "category": "10"
+},
+{
+    "title": "猿の惑星 聖戦記",
+    "scrTime": "140",
+    "date": "2017-10-13",
+    "value": "1300",
+    "point": "3.5",
+    "category": "1"
+},
+{
+    "title": "DCスーパーヒーローズvs鷹の爪団",
+    "scrTime": "105",
+    "date": "2017-10-21",
+    "value": "1800",
+    "point": "4",
+    "category": "3"
+},
+{
+    "title": "ブレードランナー2049",
+    "scrTime": "163",
+    "date": "2017-10-28",
+    "value": "1300",
+    "point": "2.5",
+    "category": "9"
+},
+{
+    "title": "マイティ・ソー バトルロイヤル",
+    "scrTime": "130",
+    "date": "2017-11-03",
+    "value": "1300",
+    "point": "3.5",
+    "category": "2"
+},
+{
+    "title": "スター・ウォーズ フォースの覚醒",
+    "scrTime": "136",
+    "date": "2017-11-11",
+    "value": "1200",
+    "point": "3",
+    "category": "9"
+},
+{
+    "title": "IT イット  \"それ\" が見えたら終わり",
+    "scrTime": "187",
+    "date": "2017-11-17",
+    "value": "1100",
+    "point": "4",
+    "category": "11"
+},
+{
+    "title": "GODZILLA怪獣惑星",
+    "scrTime": "89",
+    "date": "2017-11-18",
+    "value": "0",
+    "point": "3.5",
+    "category": "3"
+},
+{
+    "title": "ジャスティス・リーグ",
+    "scrTime": "120",
+    "date": "2017-11-24",
+    "value": "1300",
+    "point": "3.5",
+    "category": "2"
+},
+{
+    "title": "鋼の錬金術師",
+    "scrTime": "133",
+    "date": "2017-12-01",
+    "value": "1000",
+    "point": "2.5",
+    "category": "3"
+},
+{
+    "title": "ガールズ＆パンツァー最終章第1話",
+    "scrTime": "47",
+    "date": "2017-12-09",
+    "value": "1200",
+    "point": "5",
+    "category": "3"
+},
+{
+    "title": "スター・ウォーズ 最後のジェダイ",
+    "scrTime": "152",
+    "date": "2017-12-15",
+    "value": "1300",
+    "point": "2.5",
+    "category": "9"
+},
+{
+    "title": "ガールズ＆パンツァー最終章第1話",
+    "scrTime": "47",
+    "date": "2017-12-16",
+    "value": "1200",
+    "point": "5",
+    "category": "3"
+},
+{
+    "title": "カンフー・ヨガ",
+    "scrTime": "107",
+    "date": "2017-12-09",
+    "value": "1800",
+    "point": "3",
+    "category": "1"
+},
+{
+    "title": "ガールズ＆パンツァー最終章第1話",
+    "scrTime": "47",
+    "date": "2017-12-24",
+    "value": "1200",
+    "point": "5",
+    "category": "3"
+},
+{
+    "title": "スター・ウォーズ 最後のジェダイ",
+    "scrTime": "152",
+    "date": "2017-12-29",
+    "value": "3400",
+    "point": "2.5",
+    "category": "9"
+},
+{
+    "title": "バーフ・バリ 王の帰還",
+    "scrTime": "141",
+    "date": "2017-12-31",
+    "value": "1800",
+    "point": "2.5",
+    "category": "1"
+},
+{
+    "title": "オリエント急行殺人事件",
+    "scrTime": "114",
+    "date": "2018-01-01",
+    "value": "1100",
+    "point": "2.5",
+    "category": "6"
+},
+{
+    "title": "キングスマン ゴールデンサークル",
+    "scrTime": "141",
+    "date": "2018-01-05",
+    "value": "0",
+    "point": "4",
+    "category": "1"
+},
+{
+    "title": "劇場版 マジンガーZ INFINITY",
+    "scrTime": "95",
+    "date": "2018-01-13",
+    "value": "1800",
+    "point": "3.5",
+    "category": "3"
+},
+{
+    "title": "パディントン2",
+    "scrTime": "103",
+    "date": "2018-01-20",
+    "value": "1300",
+    "point": "3.5",
+    "category": "13"
+},
+{
+    "title": "ガールズ＆パンツァー最終章第1話",
+    "scrTime": "47",
+    "date": "2018-01-21",
+    "value": "1200",
+    "point": "5",
+    "category": "3"
+},
+{
+    "title": "ダークタワー",
+    "scrTime": "95",
+    "date": "2018-01-27",
+    "value": "1300",
+    "point": "3",
+    "category": "1"
+},
+{
+    "title": "ジオストーム",
+    "scrTime": "109",
+    "date": "2018-02-04",
+    "value": "1800",
+    "point": "3.5",
+    "category": "11"
+},
+{
+    "title": "コードギアス 反逆のルルーシュ II 叛道",
+    "scrTime": "133",
+    "date": "2018-02-10",
+    "value": "1800",
+    "point": "3.5",
+    "category": "3"
+},
+{
+    "title": "グレイテスト・ショーマン",
+    "scrTime": "105",
+    "date": "2018-02-16",
+    "value": "1300",
+    "point": "4.5",
+    "category": "4"
+},
+{
+    "title": "グレイテスト・ショーマン",
+    "scrTime": "105",
+    "date": "2018-02-23",
+    "value": "1300",
+    "point": "4.5",
+    "category": "4"
+},
+{
+    "title": "ブラックパンサー",
+    "scrTime": "134",
+    "date": "2018-03-02",
+    "value": "1300",
+    "point": "3.5",
+    "category": "2"
+},
+{
+    "title": "シェイプオブウォーター",
+    "scrTime": "124",
+    "date": "2018-03-09",
+    "value": "0",
+    "point": "2.5",
+    "category": "5"
+},
+{
+    "title": "リメンバー・ミー",
+    "scrTime": "105",
+    "date": "2018-03-16",
+    "value": "1400",
+    "point": "2.5",
+    "category": "3"
+},
+{
+    "title": "トゥームレイダー ファースト・ミッション",
+    "scrTime": "118",
+    "date": "2018-03-24",
+    "value": "1300",
+    "point": "3.5",
+    "category": "1"
+},
+{
+    "title": "トレイン・ミッション",
+    "scrTime": "105",
+    "date": "2018-04-01",
+    "value": "1100",
+    "point": "3",
+    "category": "7"
+},
+{
+    "title": "ヴァレリアン 千の惑星の救世主",
+    "scrTime": "137",
+    "date": "2018-04-01",
+    "value": "1100",
+    "point": "3.5",
+    "category": "9"
+},
+{
+    "title": "ジュマンジ\/ウェルカム・トゥ・ジャングル",
+    "scrTime": "119",
+    "date": "2018-04-07",
+    "value": "1300",
+    "point": "3.5",
+    "category": "1"
+},
+{
+    "title": "パシフィック・リム: アップライジング",
+    "scrTime": "111",
+    "date": "2018-04-14",
+    "value": "1100",
+    "point": "4",
+    "category": "9"
+},
+{
+    "title": "レディ・プレイヤー1",
+    "scrTime": "140",
+    "date": "2018-04-20",
+    "value": "1300",
+    "point": "4",
+    "category": "1"
+},
+{
+    "title": "アベンジャーズ／インフィニティ・ウォー",
+    "scrTime": "156",
+    "date": "2018-04-27",
+    "value": "1300",
+    "point": "5",
+    "category": "2"
+},
+{
+    "title": "アベンジャーズ／インフィニティ・ウォー",
+    "scrTime": "156",
+    "date": "2018-04-29",
+    "value": "0",
+    "point": "5",
+    "category": "2"
+},
+{
+    "title": "アベンジャーズ／インフィニティ・ウォー",
+    "scrTime": "156",
+    "date": "2018-05-03",
+    "value": "3400",
+    "point": "5",
+    "category": "2"
+},
+{
+    "title": "機動戦士ガンダム THE ORIGIN 誕生 赤い彗星",
+    "scrTime": "85",
+    "date": "2018-05-05",
+    "value": "1800",
+    "point": "3.5",
+    "category": "3"
+},
+{
+    "title": "いぬやしき",
+    "scrTime": "126",
+    "date": "2018-05-11",
+    "value": "1300",
+    "point": "2.5",
+    "category": "1"
+},
+{
+    "title": "アベンジャーズ／インフィニティ・ウォー",
+    "scrTime": "156",
+    "date": "2018-05-12",
+    "value": "1300",
+    "point": "5",
+    "category": "2"
+},
+{
+    "title": "GODZILLA 決戦機動増殖都市",
+    "scrTime": "101",
+    "date": "2018-05-18",
+    "value": "1300",
+    "point": "3.5",
+    "category": "3"
+},
+{
+    "title": "犬ヶ島",
+    "scrTime": "105",
+    "date": "2018-05-26",
+    "value": "1300",
+    "point": "2.5",
+    "category": "6"
+},
+{
+    "title": "ピーターラビット",
+    "scrTime": "95",
+    "date": "2018-05-27",
+    "value": "1800",
+    "point": "3",
+    "category": "13"
+},
+{
+    "title": "デッドプール2",
+    "scrTime": "120",
+    "date": "2018-06-01",
+    "value": "1100",
+    "point": "4",
+    "category": "2"
+},
+{
+    "title": "ランペイジ 巨獣大乱闘",
+    "scrTime": "107",
+    "date": "2018-06-08",
+    "value": "1300",
+    "point": "4",
+    "category": "1"
+},
+{
+    "title": "アベンジャーズ／インフィニティ・ウォー",
+    "scrTime": "156",
+    "date": "2018-06-15",
+    "value": "1100",
+    "point": "5",
+    "category": "2"
+},
+{
+    "title": "メイズ・ランナー：最期の迷宮",
+    "scrTime": "146",
+    "date": "2018-06-16",
+    "value": "1100",
+    "point": "3",
+    "category": "1"
+},
+{
+    "title": "ニンジャバットマン",
+    "scrTime": "85",
+    "date": "2018-06-22",
+    "value": "1400",
+    "point": "3",
+    "category": "2"
+},
+{
+    "title": "ハン・ソロ\/スター・ウォーズ ストーリー",
+    "scrTime": "135",
+    "date": "2018-06-29",
+    "value": "0",
+    "point": "3.5",
+    "category": "9"
+},
+{
+    "title": "アーリーマン〜ダグと仲間のキックオフ！〜",
+    "scrTime": "89",
+    "date": "2018-07-07",
+    "value": "0",
+    "point": "3",
+    "category": "13"
+},
+{
+    "title": "ジュラシック・ワールド 炎の王国",
+    "scrTime": "128",
+    "date": "2018-07-16",
+    "value": "1800",
+    "point": "3",
+    "category": "1"
+},
+{
+    "title": "メリー・ポピンズ",
+    "scrTime": "139",
+    "date": "2018-07-22",
+    "value": "1100",
+    "point": "3",
+    "category": "4"
+},
+{
+    "title": "雨に唄えば",
+    "scrTime": "103",
+    "date": "2018-07-28",
+    "value": "1100",
+    "point": "3.5",
+    "category": "4"
+},
+{
+    "title": "僕のヒーローアカデミア THE MOVIE ～2人の英雄（ヒーロー）～",
+    "scrTime": "96",
+    "date": "2018-08-04",
+    "value": "1400",
+    "point": "4",
+    "category": "3"
+},
+{
+    "title": "銀魂２　掟は破るためにこそある",
+    "scrTime": "134",
+    "date": "2018-08-17",
+    "value": "1400",
+    "point": "4",
+    "category": "3"
+},
+{
+    "title": "カメラを止めるな！",
+    "scrTime": "96",
+    "date": "2018-08-18",
+    "value": "1800",
+    "point": "4",
+    "category": "13"
+},
+{
+    "title": "マンマ・ミーア！ ヒア・ウィー・ゴー",
+    "scrTime": "114",
+    "date": "2018-08-25",
+    "value": "1300",
+    "point": "3.5",
+    "category": "4"
+},
+{
+    "title": "アントマン＆ワスプ",
+    "scrTime": "118",
+    "date": "2018-08-31",
+    "value": "0",
+    "point": "3.5",
+    "category": "2"
+},
+{
+    "title": "オーシャンズ8",
+    "scrTime": "110",
+    "date": "2018-09-01",
+    "value": "0",
+    "point": "4",
+    "category": "10"
+},
+{
+    "title": "MEG ザ・モンスター",
+    "scrTime": "113",
+    "date": "2018-09-08",
+    "value": "0",
+    "point": "3.5",
+    "category": "11"
+},
+{
+    "title": "ブリグズビー・ベア",
+    "scrTime": "97",
+    "date": "2018-09-09",
+    "value": "0",
+    "point": "3",
+    "category": "6"
+},
+{
+    "title": "プーと大人になった僕",
+    "scrTime": "104",
+    "date": "2018-09-14",
+    "value": "0",
+    "point": "4",
+    "category": "3"
+},
+{
+    "title": "ザ・プレデター",
+    "scrTime": "101",
+    "date": "2018-09-15",
+    "value": "0",
+    "point": "3.5",
+    "category": "9"
+},
+{
+    "title": "スカイスクレイパー",
+    "scrTime": "102",
+    "date": "2018-09-21",
+    "value": "0",
+    "point": "3.5",
+    "category": "1"
+},
+{
+    "title": "クワイエット・プレイス",
+    "scrTime": "90",
+    "date": "2018-09-28",
+    "value": "0",
+    "point": "4",
+    "category": "11"
+},
+{
+    "title": "ガールズ&パンツァー 第63回戦車道全国高校生大会 総集編",
+    "scrTime": "122",
+    "date": "2018-09-29",
+    "value": "1200",
+    "point": "4.5",
+    "category": "3"
+},
+{
+    "title": "ルイスと不思議の時計",
+    "scrTime": "105",
+    "date": "2018-10-12",
+    "value": "1400",
+    "point": "3",
+    "category": "12"
+},
+{
+    "title": "死霊館のシスター",
+    "scrTime": "96",
+    "date": "2018-10-06",
+    "value": "2300",
+    "point": "3",
+    "category": "11"
+},
+{
+    "title": "アンダー・ザ・シルバーレイク",
+    "scrTime": "140",
+    "date": "2018-10-13",
+    "value": "1800",
+    "point": "2",
+    "category": "6"
+},
+{
+    "title": "スモールフット",
+    "scrTime": "96",
+    "date": "2018-10-14",
+    "value": "1800",
+    "point": "3.5",
+    "category": "3"
+},
+{
+    "title": "スカイライン-奪還-",
+    "scrTime": "105",
+    "date": "2018-10-19",
+    "value": "1400",
+    "point": "3",
+    "category": "9"
+},
+{
+    "title": "デス・ウィッシュ",
+    "scrTime": "107",
+    "date": "2018-10-26",
+    "value": "1100",
+    "point": "3.5",
+    "category": "10"
+},
+{
+    "title": "ヴェノム",
+    "scrTime": "112",
+    "date": "2018-11-02",
+    "value": "1300",
+    "point": "3.5",
+    "category": "2"
+},
+{
+    "title": "GODZILLA 星を喰う者",
+    "scrTime": "88",
+    "date": "2018-11-10",
+    "value": "1800",
+    "point": "4",
+    "category": "3"
+},
+{
+    "title": "ボヘミアン・ラプソディ",
+    "scrTime": "135",
+    "date": "2018-11-11",
+    "value": "2300",
+    "point": "3.5",
+    "category": "14"
+},
+{
+    "title": "ジョニー・イングリッシュ アナログの逆襲",
+    "scrTime": "89",
+    "date": "2018-11-16",
+    "value": "1400",
+    "point": "3",
+    "category": "13"
+},
+{
+    "title": "ファンタスティック・ビーストと黒い魔法使いの誕生",
+    "scrTime": "134",
+    "date": "2018-11-23",
+    "value": "0",
+    "point": "3",
+    "category": "12"
+},
+{
+    "title": "くるみ割り人形と秘密の王国",
+    "scrTime": "100",
+    "date": "2018-11-30",
+    "value": "1300",
+    "point": "3",
+    "category": "12"
+},
+{
+    "title": "へレディタリー／継承",
+    "scrTime": "127",
+    "date": "2018-12-01",
+    "value": "0",
+    "point": "2",
+    "category": "11"
+},
+{
+    "title": "機動戦士ガンダムＮＴ",
+    "scrTime": "90",
+    "date": "2018-12-08",
+    "value": "1800",
+    "point": "3",
+    "category": "3"
+},
+{
+    "title": "グリンチ",
+    "scrTime": "86",
+    "date": "2018-12-14",
+    "value": "1400",
+    "point": "3.5",
+    "category": "3"
+},
+{
+    "title": "シュガー・ラッシュ：オンライン",
+    "scrTime": "112",
+    "date": "2018-12-21",
+    "value": "1400",
+    "point": "3.5",
+    "category": "3"
+},
+{
+    "title": "アリー\/ スター誕生",
+    "scrTime": "136",
+    "date": "2018-12-28",
+    "value": "1300",
+    "point": "3.5",
+    "category": "5"
+}
+]
