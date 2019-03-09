@@ -5,7 +5,7 @@ var alert_text;
 const json_addr = "http://dioh09.php.xdomain.jp/MovieData.json";	//phpサーバ上のjson
 
 //アクセスするサーバ名称
-const svr_domain = "http://dioh09.php.xdomain.jp";
+const svr_domain = "http://dioh09.php.xdomain.jp/movie_project";
 //const svr_domain = "http://localhost/src";
 
 const movie_point = [	'1',
@@ -199,7 +199,7 @@ function logout_admin_user(){
 $(window).on("killed_session", goto_index_page);
 
 function goto_index_page(){
-		location.href = svr_domain + "/index.html";
+		location.href = svr_domain + "/login_page.html";
 }
 
 $(function(){

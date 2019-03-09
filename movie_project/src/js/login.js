@@ -5,7 +5,7 @@ var alert_text;
 const json_addr = "http://dioh09.php.xdomain.jp/MovieData.json";	//phpサーバ上のjson
 
 //アクセスするサーバ名称
-const svr_domain = "http://dioh09.php.xdomain.jp";
+const svr_domain = "http://dioh09.php.xdomain.jp/movie_project";
 //const svr_domain = "http://localhost/src";
 
 function try_login(){

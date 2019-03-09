@@ -31,7 +31,7 @@ if(!isset($_SESSION["login_user"])){
 <body>
 	<div class="all_page_layout">
 		<div class="change_page_btn">
-			<a href = "./index.html" class="goto_main">メインページへ</a><br>
+			<a href = "../index.html" class="goto_main">メインページへ</a><br>
 			<a href = "./movie_calc.html" class="goto_calc">検索ページへ</a><br>
 			<a href = "./movie_category.html" class="goto_graph">グラフページへ</a><br>
 		</div>

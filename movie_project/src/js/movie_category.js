@@ -10,7 +10,7 @@ var avg_point_arr = [];
 
 
 //アクセスするサーバ名称
-const svr_domain = "http://dioh09.php.xdomain.jp";
+const svr_domain = "http://dioh09.php.xdomain.jp/movie_project";
 
 //グラフ表示処理
 function graph_display(){

@@ -13,7 +13,7 @@ var movie_data;
 const json_addr = "http://dioh09.php.xdomain.jp/MovieData.json";	//phpサーバ上のjson そのままだとjQueryで取れない
 
 //アクセスするサーバ名称
-const svr_domain = "http://dioh09.php.xdomain.jp";
+const svr_domain = "http://dioh09.php.xdomain.jp/movie_project";
 //const svr_domain = "http://localhost/src";
 
 const movie_point = [	'1',
